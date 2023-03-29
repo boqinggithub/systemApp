@@ -1,0 +1,12 @@
+坪山法院App  base
+妇幼保健院工资系统  fybjy
+宝安教育局(民转公)  bajyj
+技术大学缴费  jsdxjf
+技术大学报账  jsdx
+政数局  zsj
+宝安职教  bazj
+南山财政局 nsczj
+新桥  xqjd--
+
+育新小学 未开发 yxxx
+政法委  zfw
